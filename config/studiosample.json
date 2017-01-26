@@ -1,0 +1,96 @@
+{
+  "studiosamplegrammar" : [
+    {
+      "filename" : "Test1",
+      "tracks" : [
+        {
+          "ch_layout" : "FL",
+          "language" : "eng"
+        },
+        {
+          "ch_layout" : "FR",
+          "language" : "eng"
+        },
+        {
+          "ch_layout" : "FC",
+          "language" : "eng"
+        },
+        {
+          "ch_layout" : "LFE",
+          "language" : "eng"
+        },
+        {
+          "ch_layout" : "BL",
+          "language" : "eng"
+        },
+        {
+          "ch_layout" : "BR",
+          "language" : "eng"
+        }
+      ]
+    },
+    {
+      "filename" : "Test2",
+      "tracks" : [
+        {
+          "ch_layout" : "FL+FR+FC+LFE+BL+BR",
+          "language" : "eng"
+        },
+        {
+          "ch_layout" : "FL+FR+FC+LFE+BL+BR",
+          "language" : "ger"
+        }
+      ]
+    },
+    {
+      "filename" : "Test3",
+      "tracks" : [
+        {
+          "ch_layout" : "FL+FR",
+          "language" : "eng"
+        },
+        {
+          "ch_layout" : "FC",
+          "language" : "eng"
+        },
+        {
+          "ch_layout" : "FL+FR",
+          "language" : "ger"
+        },
+        {
+          "ch_layout" : "FC",
+          "language" : "ger"
+        }
+      ]
+    },
+    {
+      "filename" : "Test4",
+      "audio_code" : "eac3",
+      "tracks" : [
+        {
+          "ch_layout" : "FL+FR+FC+LFE+BL+BR",
+          "language" : "eng"
+        },
+        {
+          "ch_layout" : "FL+FR+FC+LFE+BL+BR",
+          "language" : "ger"
+        }
+      ]
+    },
+    {
+      "filename" : "Test5",
+      "audio_code" : "s302m",
+      "tracks" : [
+        {
+          "ch_layout" : "FL+FR+FC+LFE+BL+BR",
+          "language" : "eng"
+        },
+        {
+          "ch_layout" : "FL+FR+FC+LFE+BL+BR",
+          "language" : "ger"
+        }
+      ]
+    }
+
+  ]
+}
